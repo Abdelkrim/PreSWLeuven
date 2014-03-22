@@ -9,6 +9,13 @@ Pre-Startup Week-end Leuven
 1. Create appengine account:  https://appengine.google.com
 2. Use the name for the app : \<PreSWLeuven>-\<Name>
 
+# google appengine tools
+
+1. appengine https://appengine.google.com/dashboard?app_id=s~paran-yo-staging
+2. datastore index: https://appengine.google.com/datastore/indexes?&app_id=s~paran-yo-staging&version_id=2012-05-20.359049092030115504
+3. datastore viewer: 
+4. datastore statistics: https://appengine.google.com/datastore/statistics?&app_id=s~paran-yo-staging&version_id=2012-05-20.359049092030115504
+5. application settings: https://appengine.google.com/settings?&app_id=s~paran-yo-staging&version_id=2012-05-20.359049092030115504
 
 # Start to code
 
